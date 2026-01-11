@@ -1,0 +1,196 @@
+Traffic Source Type,Traffic Source %,Visitor Type,Visitor Count,Visitor Date,Visits (in thousands),Bounce Rate %,Avg. Session Duration (sec),Pages Per Visit,Bounce Rate,Total Page Views,Goal Conversion Rate %,Channel,Conversion % (Channel),Campaign Name,Conversion % (Campaign),Page Name,conversion%(Page),Year,month
+Social,91,Returning,52,1/1/2025,53,54.88,77,4.3,61.5,69,17.1,Paid Search,6.2,Campaign 2,17.4,Page 3,22.2,2025,Jan
+Social,91,New,125,1/2/2025,30,56.3,73,3.7,59.2,56,16,Paid Search,6,Campaign 2,16.8,Page 3,21.5,2025,Jan
+Direct,44,Returning,45,1/3/2025,50,91.47,49,2.9,47.8,33,18,Direct,27.5,Campaign 2,8.1,Page 1,6.9,2025,Jan
+Direct,44,New,39,1/4/2025,42,85.3,35,2.7,45,28,17.5,Direct,26,Campaign 2,7.5,Page 1,6.3,2025,Jan
+Paid,26,Returning,30,1/5/2025,9,6.04,78,3.2,48.7,35,5.8,Organic,23.6,Campaign 2,18.4,Page 3,11.6,2025,Jan
+Paid,26,New,35,1/6/2025,14,7.5,75,3.1,46.2,29,5.5,Organic,22,Campaign 2,16.7,Page 3,10.8,2025,Jan
+Defect,68,Returning,155,1/7/2025,15,90,54,3.4,67.8,34,11,Paid Search,5.3,Campaign 1,20.5,Page 1,19.5,2025,Jan
+Defect,68,New,28,1/8/2025,10,88,50,3,4,28,10.2,Paid Search,4.8,Campaign 1,19.7,Page 1,18,2025,Jan
+Referral,14,Returning,114,1/9/2025,17,70.63,41,3.9,59.4,95,15.6,Organic,23.7,Campaign 3,15.6,Page 1,15.1,2025,Jan
+Referral,14,New,11,1/10/2025,8,65,25,3.6,55,65,14,Organic,21.5,Campaign 3,13.9,Page 1,14.2,2025,Jan
+Email,33,Returning,30,1/11/2025,18,65.34,15,4.1,52.3,94,16.2,Direct,18.9,Campaign 4,13.8,Page 2,10.7,2025,Jan
+Email,33,New,26,1/12/2025,13,60.2,16,3.8,50.5,75,15,Direct,17.8,Campaign 4,12,Page 2,9.5,2025,Jan
+Social,91,Returning,45,1/13/2025,50,54.88,77,4.2,61.5,68,17.1,Paid Search,6.2,Campaign 2,17.4,Page 3,22.2,2025,Jan
+Social,91,New,28,1/14/2025,33,56.3,73,3.7,59.2,57,16,Paid Search,6,Campaign 2,16.8,Page 3,21.5,2025,Jan
+Direct,44,Returning,42,1/15/2025,46,91.47,49,2.9,47.8,31,18,Direct,27.5,Campaign 2,8.1,Page 1,6.9,2025,Jan
+Direct,44,New,38,1/16/2025,35,85.3,35,2.5,45,27,17.5,Direct,26,Campaign 2,7.5,Page 1,6.3,2025,Jan
+Paid,26,Returning,35,1/17/2025,9,6.04,78,3.4,48.7,36,5.8,Organic,23.6,Campaign 2,18.4,Page 3,11.6,2025,Jan
+Paid,26,New,32,1/18/2025,12,7.5,75,3,46.2,29,5.5,Organic,22,Campaign 2,16.7,Page 3,10.8,2025,Jan
+Defect,68,Returning,150,1/19/2025,13,90,54,3.5,67.8,33,11,Paid Search,5.3,Campaign 1,20.5,Page 1,19.5,2025,Jan
+Defect,68,New,30,1/20/2025,11,88,50,3.2,64,28,10.2,Paid Search,4.8,Campaign 1,19.7,Page 1,18,2025,Jan
+Referral,14,Returning,12,1/21/2025,15,70.63,41,3.9,59.4,90,15.6,Organic,23.7,Campaign 3,15.6,Page 1,15.1,2025,Jan
+Referral,14,New,39,1/22/2025,9,65,25,3.5,55,64,14,Organic,21.5,Campaign 3,13.9,Page 1,14.2,2025,Jan
+Email,33,Returning,134,1/23/2025,17,65.34,26,4.1,52.3,93,16.2,Direct,18.9,Campaign 4,13.8,Page 2,10.7,2025,Jan
+Email,33,New,27,1/24/2025,13,60.2,27,3.6,50.5,76,15,Direct,17.8,Campaign 4,12,Page 2,9.5,2025,Jan
+Social,91,Returning,25,1/25/2025,47,54.88,77,4.4,61.5,66,17.1,Paid Search,6.2,Campaign 2,17.4,Page 3,22.2,2025,Jan
+Social,91,New,300,1/26/2025,35,56.3,73,3.9,59.2,56,16,Paid Search,6,Campaign 2,16.8,Page 3,21.5,2025,Jan
+Direct,44,Returning,78,1/27/2025,44,91.47,49,2.7,47.8,32,18,Direct,27.5,Campaign 2,8.1,Page 1,6.9,2025,Jan
+Direct,44,New,350,1/28/2025,32,85.3,35,2.5,45,29,17.5,Direct,26,Campaign 2,7.5,Page 1,6.3,2025,Jan
+Paid,26,Returning,27,1/29/2025,8,6.04,78,3.2,48.7,34,5.8,Organic,23.6,Campaign 2,18.4,Page 3,11.6,2025,Jan
+Paid,26,New,30,1/30/2025,10,7.5,75,3,46.2,27,5.5,Organic,22,Campaign 2,16.7,Page 3,10.8,2025,Jan
+Defect,68,Returning,439,1/31/2025,11,90,54,3.3,7.8,33,11,Paid Search,5.3,Campaign 1,20.5,Page 1,19.5,2025,Jan
+Defect,68,New,350,2/1/2025,9,88,50,3.1,64,29,10.2,Paid Search,4.8,Campaign 1,19.7,Page 1,18,2025,Feb
+Referral,14,Returning,50,2/2/2025,14,70.63,41,3.9,59.4,89,15.6,Organic,23.7,Campaign 3,15.6,Page 1,15.1,2025,Feb
+Referral,14,New,80,2/3/2025,10,65,25,3.5,55,65,14,Organic,21.5,Campaign 3,13.9,Page 1,14.2,2025,Feb
+Email,33,Returning,87,2/4/2025,19,65.34,26,4.1,52.3,93,16.2,Direct,18.9,Campaign 4,13.8,Page 2,10.7,2025,Feb
+Email,33,New,250,2/5/2025,15,60.2,27,3.8,50.5,75,15,Direct,17.8,Campaign 4,12,Page 2,9.5,2025,Feb
+Social,91,Returning,40,2/6/2025,47,54.88,77,4.4,61.5,66,17.1,Paid Search,6.2,Campaign 2,17.4,Page 3,22.2,2025,Feb
+Social,91,New,30,2/7/2025,35,56.3,73,3.9,59.2,56,16,Paid Search,6,Campaign 2,16.8,Page 3,21.5,2025,Feb
+Direct,44,Returning,46,2/8/2025,44,91.47,49,2.7,47.8,32,18,Direct,27.5,Campaign 2,8.1,Page 1,6.9,2025,Feb
+Direct,44,New,135,2/9/2025,32,85.3,35,2.5,45,29,17.5,Direct,26,Campaign 2,7.5,Page 1,6.3,2025,Feb
+Paid,26,Returning,42,2/10/2025,8,6.04,78,3.2,48.7,34,5.8,Organic,23.6,Campaign 2,18.4,Page 3,11.6,2025,Feb
+Paid,26,New,30,2/11/2025,10,7.5,75,3,46.2,27,5.5,Organic,22,Campaign 2,16.7,Page 3,10.8,2025,Feb
+Defect,68,Returning,43,2/12/2025,11,90,54,3.3,7.8,33,11,Paid Search,5.3,Campaign 1,20.5,Page 1,19.5,2025,Feb
+Defect,68,New,35,2/13/2025,9,88,50,3.1,4,29,10.2,Paid Search,4.8,Campaign 1,19.7,Page 1,18,2025,Feb
+Referral,14,Returning,100,2/14/2025,14,70.63,41,3.9,59.4,89,15.6,Organic,23.7,Campaign 3,15.6,Page 1,15.1,2025,Feb
+Referral,14,New,8,2/15/2025,10,65,25,3.5,55,65,14,Organic,21.5,Campaign 3,13.9,Page 1,14.2,2025,Feb
+Email,33,Returning,38,2/16/2025,19,65.34,26,4.1,20,93,16.2,Direct,18.9,Campaign 4,13.8,Page 2,10.7,2025,Feb
+Email,33,New,25,2/17/2025,15,60.2,27,3.8,50.5,75,15,Direct,17.8,Campaign 4,12,Page 2,9.5,2025,Feb
+Social,91,Returning,40,2/18/2025,47,54.88,77,4.4,1.5,66,17.1,Paid Search,6.2,Campaign 2,17.4,Page 3,22.2,2025,Feb
+Social,91,New,30,2/19/2025,35,56.3,73,3.9,59.2,56,16,Paid Search,6,Campaign 2,16.8,Page 3,21.5,2025,Feb
+Direct,44,Returning,46,2/20/2025,44,91.47,49,2.7,47.8,32,18,Direct,27.5,Campaign 2,8.1,Page 1,6.9,2025,Feb
+Direct,44,New,135,2/21/2025,32,85.3,35,2.5,45,29,17.5,Direct,26,Campaign 2,7.5,Page 1,6.3,2025,Feb
+Paid,26,Returning,42,2/22/2025,8,6.04,78,3.2,48.7,34,5.8,Organic,23.6,Campaign 2,18.4,Page 3,11.6,2025,Feb
+Paid,26,New,30,2/23/2025,10,7.5,75,3,46.2,27,5.5,Organic,22,Campaign 2,16.7,Page 3,10.8,2025,Feb
+Defect,68,Returning,143,2/24/2025,11,90,54,3.3,67.8,33,11,Paid Search,5.3,Campaign 1,20.5,Page 1,19.5,2025,Feb
+Defect,68,New,35,2/25/2025,9,88,50,3.1,64,29,10.2,Paid Search,4.8,Campaign 1,19.7,Page 1,18,2025,Feb
+Referral,14,Returning,10,2/26/2025,14,70.63,41,3.9,59.4,89,15.6,Organic,23.7,Campaign 3,15.6,Page 1,15.1,2025,Feb
+Referral,14,New,80,2/27/2025,10,65,25,3.5,55,65,14,Organic,21.5,Campaign 3,13.9,Page 1,14.2,2025,Feb
+Email,33,Returning,38,2/28/2025,19,65.34,26,4.1,52.3,93,16.2,Direct,18.9,Campaign 4,13.8,Page 2,10.7,2025,Feb
+Email,33,New,125,3/1/2025,15,60.2,27,3.8,50.5,75,15,Direct,17.8,Campaign 4,12,Page 2,9.5,2025,Mar
+Social,91,Returning,56,3/2/2025,55,54.88,77,4.3,1.5,71,17.1,Paid Search,6.2,Campaign 2,17.4,Page 3,22.2,2025,Mar
+Social,91,New,24,3/3/2025,28,56.3,73,3.5,5,55,16,Paid Search,6,Campaign 2,16.8,Page 3,21.5,2025,Mar
+Direct,44,Returning,40,3/4/2025,48,91.47,49,3,47.8,33,18,Direct,27.5,Campaign 2,8.1,Page 1,6.9,2025,Mar
+Direct,44,New,37,3/5/2025,39,85.3,35,2.8,45,28,17.5,Direct,26,Campaign 2,7.5,Page 1,6.3,2025,Mar
+Paid,26,Returning,133,3/6/2025,10,6.04,78,3.1,48.7,35,5.8,Organic,23.6,Campaign 2,18.4,Page 3,11.6,2025,Mar
+Paid,26,New,39,3/7/2025,15,7.5,75,3.2,46.2,30,5.5,Organic,22,Campaign 2,16.7,Page 3,10.8,2025,Mar
+Defect,68,Returning,60,3/8/2025,16,90,54,3.5,67.8,34,11,Paid Search,5.3,Campaign 1,20.5,Page 1,19.5,2025,Mar
+Defect,68,New,333,3/9/2025,12,88,50,3.2,64,29,10.2,Paid Search,4.8,Campaign 1,19.7,Page 1,18,2025,Mar
+Referral,14,Returning,6,3/10/2025,18,70.63,41,4.1,59.4,95,15.6,Organic,23.7,Campaign 3,15.6,Page 1,15.1,2025,Mar
+Referral,14,New,13,3/11/2025,9,65,25,3.4,55,64,14,Organic,21.5,Campaign 3,13.9,Page 1,14.2,2025,Mar
+Email,33,Returning,32,3/12/2025,19,65.34,26,4.2,2,94,16.2,Direct,18.9,Campaign 4,13.8,Page 2,10.7,2025,Mar
+Email,33,New,29,3/13/2025,14,60.2,27,3.9,50.5,75,15,Direct,17.8,Campaign 4,12,Page 2,9.5,2025,Mar
+Social,91,Returning,156,3/14/2025,55,54.88,77,4.3,61.5,71,17.1,Paid Search,6.2,Campaign 2,17.4,Page 3,22.2,2025,Mar
+Social,91,New,24,3/15/2025,28,56.3,73,3.5,59.2,55,16,Paid Search,6,Campaign 2,16.8,Page 3,21.5,2025,Mar
+Direct,44,Returning,40,3/16/2025,48,91.47,49,3,47.8,33,18,Direct,27.5,Campaign 2,8.1,Page 1,6.9,2025,Mar
+Direct,44,New,37,3/17/2025,39,85.3,35,2.8,45,28,17.5,Direct,26,Campaign 2,7.5,Page 1,6.3,2025,Mar
+Paid,26,Returning,33,3/18/2025,10,6.04,78,3.1,48.7,35,5.8,Organic,23.6,Campaign 2,18.4,Page 3,11.6,2025,Mar
+Paid,26,New,139,3/19/2025,15,7.5,75,3.2,46.2,30,5.5,Organic,22,Campaign 2,16.7,Page 3,10.8,2025,Mar
+Defect,68,Returning,160,3/20/2025,16,90,54,3.5,67.8,34,11,Paid Search,5.3,Campaign 1,20.5,Page 1,19.5,2025,Mar
+Defect,68,New,3,3/21/2025,12,88,50,3.2,4,29,10.2,Paid Search,4.8,Campaign 1,19.7,Page 1,18,2025,Mar
+Referral,14,Returning,6,3/22/2025,18,70.63,41,4.1,59.4,95,15.6,Organic,23.7,Campaign 3,15.6,Page 1,15.1,2025,Mar
+Referral,14,New,3,3/23/2025,9,65,25,3.4,55,64,14,Organic,21.5,Campaign 3,13.9,Page 1,14.2,2025,Mar
+Email,33,Returning,32,3/24/2025,19,65.34,26,4.2,52.3,94,16.2,Direct,18.9,Campaign 4,13.8,Page 2,10.7,2025,Mar
+Email,33,New,129,3/25/2025,14,60.2,27,3.9,50.5,75,15,Direct,17.8,Campaign 4,12,Page 2,9.5,2025,Mar
+Social,91,Returning,58,3/26/2025,54,55.5,77,4.1,60,72,17.3,Paid Search,6.5,Campaign 2,18.2,Page 3,23,2025,Mar
+Social,91,New,22,3/27/2025,26,58,70,3.8,58,54,15.5,Paid Search,5.8,Campaign 2,15,Page 3,20,2025,Mar
+Direct,44,Returning,45,3/28/2025,49,90,45,3.1,48.5,33,18.5,Direct,25,Campaign 2,9,Page 1,7.5,2025,Mar
+Direct,44,New,134,3/29/2025,37,87,40,2.9,46,27,16.5,Direct,24,Campaign 2,8,Page 1,6.5,2025,Mar
+Paid,26,Returning,37,3/30/2025,8,5,76,3,47,37,6,Organic,20,Campaign 2,16,Page 3,12,2025,Mar
+Paid,26,New,29,3/31/2025,10,7,74,3.2,44,31,5.5,Organic,19,Campaign 2,15,Page 3,11.5,2025,Mar
+Defect,68,Returning,61,4/1/2025,14,91.5,55,3.6,68,35,12,Paid Search,5,Campaign 1,18,Page 1,19,2025,Apr
+Defect,68,New,130,4/2/2025,11,89,53,3,65,28,10,Paid Search,4.5,Campaign 1,16,Page 1,17,2025,Apr
+Referral,14,Returning,8,4/3/2025,17,72,42,4.2,0,96,14.5,Organic,21,Campaign 3,16,Page 1,15.5,2025,Apr
+Referral,14,New,115,4/4/2025,8,67,27,3.7,56,62,12.5,Organic,20.5,Campaign 3,14,Page 1,13.5,2025,Apr
+Email,33,Returning,133,4/5/2025,20,63,28,4.3,53,96,15,Direct,19,Campaign 4,14,Page 2,11,2025,Apr
+Email,33,New,26,4/6/2025,15,59,29,3.9,51,80,14,Direct,18,Campaign 4,13,Page 2,10,2025,Apr
+Social,91,Returning,54,4/7/2025,52,54,77,4.4,59,73,16,Paid Search,7,Campaign 2,15,Page 3,22,2025,Apr
+Social,91,New,2,4/8/2025,27,56,70,3.8,58,58,14,Paid Search,6,Campaign 2,14,Page 3,21,2025,Apr
+Direct,44,Returning,42,4/9/2025,45,89,45,3.2,45,31,17,Direct,26,Campaign 2,7,Page 1,7,2025,Apr
+Direct,44,New,39,4/10/2025,38,85,35,2.8,44,27,16,Direct,25,Campaign 2,6.5,Page 1,6.5,2025,Apr
+Paid,26,Returning,34,4/11/2025,9,5.5,76,3.5,48,33,6.5,Organic,22,Campaign 2,15,Page 3,12,2025,Apr
+Paid,26,New,128,4/12/2025,12,6,75,3.1,45,28,5,Organic,21,Campaign 2,14,Page 3,11,2025,Apr
+Social,91,Returning,56,4/13/2025,55,54.88,77,4.3,1.5,71,17.1,Paid Search,6.2,Campaign 2,17.4,Page 3,22.2,2025,Apr
+Social,91,New,24,4/14/2025,28,56.3,73,3.5,59.2,55,16,Paid Search,6,Campaign 2,16.8,Page 3,21.5,2025,Apr
+Social,91,Guest,8,4/15/2025,20,58,65,3.9,57.5,49,15.5,Paid Search,5.5,Campaign 2,15.2,Page 2,20,2025,Apr
+Direct,44,Returning,40,4/16/2025,48,91.47,49,3,47.8,33,18,Direct,27.5,Campaign 2,8.1,Page 1,6.9,2025,Apr
+Direct,44,New,37,4/17/2025,39,85.3,35,2.8,5,28,17.5,Direct,26,Campaign 2,7.5,Page 1,6.3,2025,Apr
+Direct,44,Guest,29,4/18/2025,30,87,30,3.2,46.5,93,14,Direct,24,Campaign 2,6.8,Page 1,6.1,2025,Apr
+Paid,26,Returning,33,4/19/2025,10,6.04,78,3.1,48.7,35,5.8,Organic,23.6,Campaign 2,18.4,Page 3,11.6,2025,Apr
+Paid,26,New,39,4/20/2025,15,7.5,75,3.2,46.2,30,5.5,Organic,22,Campaign 2,16.7,Page 3,10.8,2025,Apr
+Paid,26,Guest,20,4/21/2025,12,8,70,3.1,44,65,4,Organic,20,Campaign 2,14,Page 3,9.5,2025,Apr
+Defect,68,Returning,60,4/22/2025,16,90,54,3.5,7.8,34,11,Paid Search,5.3,Campaign 1,20.5,Page 1,19.5,2025,Apr
+Defect,68,New,3,4/23/2025,12,88,50,3.2,6,29,10.2,Paid Search,4.8,Campaign 1,19.7,Page 1,18,2025,Apr
+Defect,68,Guest,5,4/24/2025,10,89,45,3,6,60,9.5,Paid Search,4,Campaign 1,18,Page 1,16,2025,Apr
+Referral,14,Returning,6,4/25/2025,18,70.63,41,4.1,59.4,95,15.6,Organic,23.7,Campaign 3,15.6,Page 1,15.1,2025,Apr
+Referral,14,New,113,4/26/2025,9,65,25,3.4,55,64,14,Organic,21.5,Campaign 3,13.9,Page 1,14.2,2025,Apr
+Referral,14,Guest,0,4/27/2025,7,64,26,3.5,53,54,12,Organic,20,Campaign 3,12.5,Page 1,12,2025,Apr
+Email,33,Returning,32,4/28/2025,19,65.34,27,4.2,52.3,94,16.2,Direct,18.9,Campaign 4,13.8,Page 2,10.7,2025,Apr
+Email,33,New,29,4/29/2025,14,60.2,28,3.9,50.5,75,15,Direct,17.8,Campaign 4,12,Page 2,9.5,2025,Apr
+Email,33,Guest,2,4/30/2025,10,58,29,3.6,48,51,13,Direct,16,Campaign 4,11,Page 2,8,2025,Apr
+Social,91,Returning,58,5/1/2025,54,55.5,77,4.1,0,72,17.3,Paid Search,6.5,Campaign 2,18.2,Page 3,23,2025,May
+Social,91,New,122,5/2/2025,26,58,70,3.8,58,54,15.5,Paid Search,5.8,Campaign 2,15,Page 3,20,2025,May
+Direct,44,Returning,45,5/3/2025,49,90,45,3.1,48.5,33,18.5,Direct,25,Campaign 2,9,Page 1,7.5,2025,May
+Direct,44,New,34,5/4/2025,37,87,40,2.9,44,27,16.5,Direct,24,Campaign 2,8,Page 1,6.5,2025,May
+Direct,44,Guest,2,5/5/2025,25,85,35,3,43,78,15,Direct,23,Campaign 2,7,Page 1,5,2025,May
+Paid,26,Returning,37,5/6/2025,8,5,76,3,47,37,6,Organic,20,Campaign 2,16,Page 3,12,2025,May
+Paid,26,New,29,5/7/2025,10,7,74,3.2,44,31,5.5,Organic,19,Campaign 2,15,Page 3,11.5,2025,May
+Paid,26,Guest,5,5/8/2025,7,6.5,70,3.1,42,57,4.5,Organic,18,Campaign 2,14,Page 3,10,2025,May
+Defect,68,Returning,6,5/9/2025,14,91.5,55,3.6,8,35,12,Paid Search,5,Campaign 1,18,Page 1,19,2025,May
+Defect,68,New,30,5/10/2025,11,89,53,3,6,28,10,Paid Search,4.5,Campaign 1,16,Page 1,17,2025,May
+Defect,68,Guest,0,5/11/2025,9,88,45,2.8,63,45,9,Paid Search,4,Campaign 1,15,Page 1,16,2025,May
+Referral,14,Returning,18,5/12/2025,17,72,42,4.2,60,96,14.5,Organic,21,Campaign 3,16,Page 1,15.5,2025,May
+Referral,14,New,15,5/13/2025,8,67,27,3.7,56,62,12.5,Organic,20.5,Campaign 3,14,Page 1,13.5,2025,May
+Referral,14,Guest,15,5/14/2025,6,66,25,3.5,54,52,12,Organic,19,Campaign 3,13,Page 1,12,2025,May
+Email,33,Returning,33,5/15/2025,20,63,26,4.3,53,96,15,Direct,19,Campaign 4,14,Page 2,11,2025,May
+Email,33,New,29,5/16/2025,15,59,27,3.9,51,80,14,Direct,18,Campaign 4,13,Page 2,10,2025,May
+Email,33,Guest,2,5/17/2025,10,58,28,3.6,48,51,13,Direct,16,Campaign 4,11,Page 2,8,2025,May
+Social,91,Returning,54,5/18/2025,52,54,77,4.4,59,73,16,Paid Search,7,Campaign 2,15,Page 3,22,2025,May
+Social,91,New,2,5/19/2025,27,56,70,3.8,58,58,14,Paid Search,6,Campaign 2,14,Page 3,21,2025,May
+Social,91,Guest,7,5/20/2025,12,58,65,3.4,56,45,13,Paid Search,5.5,Campaign 2,12,Page 3,19,2025,May
+Direct,44,Returning,42,5/21/2025,45,89,45,3.2,45,31,17,Direct,26,Campaign 2,7,Page 1,7,2025,May
+Direct,44,New,139,5/22/2025,38,85,40,2.9,44,27,16,Direct,25,Campaign 2,6.5,Page 1,6.5,2025,May
+Direct,44,Guest,22,5/23/2025,25,83,35,3,43,78,15,Direct,23,Campaign 2,7,Page 1,5,2025,May
+Referral,14,Returning,119,5/24/2025,17,70.63,42,4.2,60,96,14.5,Organic,21,Campaign 3,16,Page 1,15.5,2025,May
+Referral,14,New,116,5/25/2025,9,67,27,3.7,56,62,12.5,Organic,20.5,Campaign 3,14,Page 1,13.5,2025,May
+Referral,14,Guest,122,5/26/2025,6,66,25,3.5,54,52,12,Organic,19,Campaign 3,13,Page 1,12,2025,May
+Email,33,Returning,34,5/27/2025,20,63,26,4.3,53,96,15,Direct,19,Campaign 4,14,Page 2,11,2025,May
+Email,33,New,30,5/28/2025,15,59,27,3.9,51,80,14,Direct,18,Campaign 4,13,Page 2,10,2025,May
+Email,33,Guest,4,5/29/2025,10,58,28,3.6,48,51,13,Direct,16,Campaign 4,11,Page 2,8,2025,May
+Social,91,Returning,55,5/30/2025,52,54,77,4.4,59,73,16,Paid Search,7,Campaign 2,15,Page 3,22,2025,May
+Social,91,New,84,5/31/2025,27,56,70,3.8,58,58,14,Paid Search,6,Campaign 2,14,Page 3,21,2025,May
+Social,91,Guest,88,6/1/2025,12,58,65,3.4,5,45,13,Paid Search,5.5,Campaign 2,12,Page 3,19,2025,Jun
+Direct,44,Returning,43,6/2/2025,45,89,45,3.2,45,31,17,Direct,26,Campaign 2,7,Page 1,7,2025,Jun
+Direct,44,New,137,6/3/2025,38,85,40,2.9,44,27,16,Direct,25,Campaign 2,6.5,Page 1,6.5,2025,Jun
+Direct,44,Guest,20,6/4/2025,25,83,35,3,43,78,15,Direct,23,Campaign 2,7,Page 1,5,2025,Jun
+Paid,26,Returning,35,6/5/2025,10,5.5,76,3.5,48,33,6.5,Organic,22,Campaign 2,15,Page 3,12,2025,Jun
+Paid,26,New,29,6/6/2025,12,6,75,3.1,45,28,5,Organic,21,Campaign 2,14,Page 3,11,2025,Jun
+Paid,26,Guest,114,6/7/2025,8,6.5,70,3,42,69,4.5,Organic,20,Campaign 2,12,Page 3,10,2025,Jun
+Social,91,Returning,60,6/8/2025,47,54.88,77,4.4,61.5,76,17.1,Paid Search,6.2,Campaign 2,17.4,Page 3,22.2,2025,Jun
+Direct,44,New,66,6/9/2025,44,91.47,49,2.7,47.8,37,18,Direct,27.5,Campaign 2,8.1,Page 1,6.9,2025,Jun
+Paid,26,Returning,53,6/10/2025,8,6.04,78,3.2,48.7,39,5.8,Organic,23.6,Campaign 2,18.4,Page 3,11.6,2025,Jun
+Defect,68,New,64,6/11/2025,11,90,54,3.3,7.8,38,11,Paid Search,5.3,Campaign 1,20.5,Page 1,19.5,2025,Jun
+Referral,14,New,2,6/12/2025,14,70.63,41,3.9,59.4,25,15.6,Organic,23.7,Campaign 3,15.6,Page 1,15.1,2025,Jun
+Social,91,Returning,157,6/13/2025,52,54,77,4.6,58,73,17,Paid Search,8,Campaign 2,16,Page 3,23,2025,Jun
+Direct,44,Returning,129,6/14/2025,45,89,47,3.3,45,32,18,Direct,27.5,Campaign 2,9.5,Page 1,8.5,2025,Jun
+Paid,26,New,269,6/15/2025,10,5.5,76,3.5,48,33,6.5,Organic,22,Campaign 2,15,Page 3,12,2025,Jun
+Email,33,Returning,34,6/16/2025,20,63,77,4.3,53,96,15,Direct,19,Campaign 4,14,Page 2,11,2025,Jun
+Email,33,New,30,6/17/2025,15,59,78,3.9,51,80,14,Direct,18,Campaign 4,13,Page 2,10,2025,Jun
+Email,33,Guest,4,6/18/2025,10,58,79,3.6,48,51,13,Direct,16,Campaign 4,11,Page 2,8,2025,Jun
+Referral,14,Returning,19,6/19/2025,17,72,42,4,60,98,14.5,Organic,21,Campaign 3,16,Page 1,15.5,2025,Jun
+Referral,14,New,116,6/20/2025,10,67,27,3.5,56,62,12.5,Organic,20.5,Campaign 3,14,Page 1,13,2025,Jun
+Referral,14,Guest,4,6/21/2025,9,66,25,3.4,54,52,12,Organic,19,Campaign 3,13,Page 1,12,2025,Jun
+Defect,68,Returning,62,6/22/2025,15,91.5,57,3.7,6,38,12,Paid Search,5.5,Campaign 1,20,Page 1,18.5,2025,Jun
+Defect,68,New,28,6/23/2025,12,89,53,3.1,,99,11.5,Paid Search,4.5,Campaign 1,18,Page 1,17,2025,Jun
+Defect,68,Guest,115,6/24/2025,10,88,45,2.9,64,55,10,Paid Search,4,Campaign 1,16.5,Page 1,15,2025,Jun
+Social,91,Returning,34,6/25/2025,9,5.5,76,3.5,48,33,6.5,Organic,22,Campaign 2,15,Page 3,12,2025,Jun
+Paid,26,New,28,6/26/2025,12,6,75,3.1,45,28,5,Organic,21,Campaign 2,14,Page 3,11,2025,Jun
+Paid,26,Guest,8,6/27/2025,8,6.5,70,3,42,69,4.5,Organic,20,Campaign 2,12,Page 1,23,2025,Jun
+Social,91,Returning,57,6/28/2025,53,54,77,4.6,58,73,17,Paid Search,8,Campaign 2,16,Page 3,23,2025,Jun
+Social,91,New,156,6/29/2025,30,56,72,3.9,57,62,15.5,Paid Search,7.5,Campaign 2,15,Page 3,21.5,2025,Jun
+Social,91,Guest,22,6/30/2025,12,58,67,3.3,15,46,14,Paid Search,6,Campaign 2,13.5,Page 3,20,2025,Jun
+Direct,44,Returning,46,7/1/2025,47,90,47,3.3,45,32,18,Direct,27.5,Campaign 2,9.5,Page 1,8.5,2025,Jul
+Direct,44,New,139,7/2/2025,39,87,41,3,44,27,17,Direct,26,Campaign 2,8,Page 1,7.5,2025,Jul
+Direct,44,Guest,29,7/3/2025,25,85,35,3,43,78,16.5,Direct,25,Campaign 2,7,Page 1,6,2025,Jul
+Paid,26,Returning,35,7/4/2025,10,5.5,76,3.5,48,33,6.5,Organic,22,Campaign 2,15,Page 3,12,2025,Jul
+Paid,26,New,32,7/5/2025,12,6,75,3.1,45,28,6,Organic,21,Campaign 2,14,Page 3,11,2025,Jul
+Paid,26,Guest,120,7/6/2025,8,6.5,70,3,42,69,5.5,Organic,20,Campaign 2,12,Page 3,10,2025,Jul
+Defect,68,Returning,66,7/7/2025,15,91.5,57,3.7,7,38,12,Paid Search,5.5,Campaign 1,20,Page 1,18.5,2025,Jul
+Defect,68,New,28,7/8/2025,12,89,53,3.1,66,99,11.5,Paid Search,4.5,Campaign 1,18,Page 1,17,2025,Jul
+Defect,68,Guest,55,7/9/2025,10,88,45,2.9,64,55,10,Paid Search,4,Campaign 1,16.5,Page 1,15,2025,Jul
+Referral,14,Returning,20,7/10/2025,18,72,42,4,60,98,14.5,Organic,21,Campaign 3,16,Page 1,15.5,2025,Jul
+Referral,14,New,16,7/11/2025,10,67,27,3.5,56,62,12.5,Organic,20.5,Campaign 3,14,Page 1,13,2025,Jul
+Referral,14,Guest,14,7/12/2025,9,66,25,3.4,54,52,12,Organic,19,Campaign 3,13,Page 1,12,2025,Jul
+Direct,44,New,35,7/13/2025,32,85.3,35,2.5,45,29,17.5,Direct,26,Campaign 2,7.5,Page 1,6.3,2025,Jul
+Paid,26,Guest,88,7/14/2025,8,6.5,70,3,42,69,5.5,Organic,20,Campaign 2,12,Page 3,10,2025,Jul
